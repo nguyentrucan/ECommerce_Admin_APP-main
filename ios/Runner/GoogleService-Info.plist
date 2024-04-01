@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>288655884813-00o3tgoi4sjgn8296adner049fgp3bor.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.288655884813-00o3tgoi4sjgn8296adner049fgp3bor</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAowfauGFFFRMK0dH273sRZ7nGgFy5TN70</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288655884813</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shopsmartAdminAr</string>
+	<key>PROJECT_ID</key>
+	<string>tuankietapp-8daac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tuankietapp-8daac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288655884813:ios:2c49442732509a7fa5cb44</string>
+</dict>
+</plist>

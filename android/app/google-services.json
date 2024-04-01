@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "525884237680",
+    "project_id": "tuankiet-27c37",
+    "storage_bucket": "tuankiet-27c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525884237680:android:d6641bfc587dcc8ffb11b5",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoOME4xm38QgRZ-x8P_WXoA_2xp88S3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525884237680:android:9e95ac959460e13bfb11b5",
+        "android_client_info": {
+          "package_name": "com.example.balochdev_shop_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoOME4xm38QgRZ-x8P_WXoA_2xp88S3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525884237680:android:eb3be78591afd910fb11b5",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoOME4xm38QgRZ-x8P_WXoA_2xp88S3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
